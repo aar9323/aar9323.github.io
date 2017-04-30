@@ -34,6 +34,10 @@ ul.nav{
 	font-size:26px;
 }
 
+.jumbotron img {
+	width:33%;
+}
+
 .btn-lg {
 	font-size: 36px;
 }
